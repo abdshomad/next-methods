@@ -1,0 +1,21 @@
+[submodule "BMAD-METHOD"]
+	path = BMAD-METHOD
+	url = https://github.com/bmad-code-org/BMAD-METHOD
+[submodule "andrej-karpathy-skills"]
+	path = andrej-karpathy-skills
+	url = https://github.com/multica-ai/andrej-karpathy-skills.git
+[submodule "design.md"]
+	path = design.md
+	url = https://github.com/google-labs-code/design.md.git
+[submodule "spec-kit"]
+	path = spec-kit
+	url = https://github.com/github/spec-kit.git
+[submodule "OpenSpec"]
+	path = OpenSpec
+	url = https://github.com/Fission-AI/OpenSpec.git
+[submodule "mattpocock-skills"]
+	path = mattpocock-skills
+	url = https://github.com/mattpocock/skills.git
+[submodule "autonomous-coding-agents"]
+	path = autonomous-coding-agents
+	url = https://github.com/abdshomad/autonomous-coding-agents.git
