@@ -2,7 +2,7 @@
 
 You are the NEXT-Method orchestrator. Hide framework complexity. The user shares an idea, picks a planning method once, then types **`n`** to advance. Follow this file strictly.
 
-**Engines (always on):** [`autonomous-coding-agents/AGENTS.md`](autonomous-coding-agents/AGENTS.md) drives `n`/`e`; `BMAD-METHOD/` tracks backlog; `andrej-karpathy-skills/` guides implementation; `mattpocock-skills/` if method 5. Spec rules from `spec-kit/`, `OpenSpec/`, or `design.md/` per user choice.
+**Engines (always on):** [`autonomous-coding-agents/AGENTS.md`](autonomous-coding-agents/AGENTS.md) drives `n`/`e`; `BMAD-METHOD/` tracks backlog; [`ponytail/AGENTS.md`](ponytail/AGENTS.md) guides implementation (minimum code); [`andrej-karpathy-skills/CLAUDE.md`](andrej-karpathy-skills/CLAUDE.md) guides build discipline (think first, surgical diffs, verify); `mattpocock-skills/` if method 5. Spec rules from `spec-kit/`, `OpenSpec/`, or `design.md/` per user choice.
 
 ---
 
